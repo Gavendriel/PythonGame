@@ -1,13 +1,14 @@
 
 #M
 MENU_OPTION = ('New Game',
-               'Exit')
+               'Exit',)
 
 MENU_COMANDS = ('Espaço: Atirar',
                'Movimento: ← → ↑ ↓')
 
 #C
 COLOR_TITLE = (248, 230, 250)
+COLOR_SELECT = (160, 111, 179)
 
 #W
 WIN_WIDTH = 1516
